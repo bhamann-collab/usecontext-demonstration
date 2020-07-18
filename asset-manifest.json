@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usecontext-demonstration/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/usecontext-demonstration/static/js/main.46ce4c45.chunk.js",
+    "main.js.map": "/usecontext-demonstration/static/js/main.46ce4c45.chunk.js.map",
+    "runtime-main.js": "/usecontext-demonstration/static/js/runtime-main.1f66f7d3.js",
+    "runtime-main.js.map": "/usecontext-demonstration/static/js/runtime-main.1f66f7d3.js.map",
+    "static/js/2.67088ef7.chunk.js": "/usecontext-demonstration/static/js/2.67088ef7.chunk.js",
+    "static/js/2.67088ef7.chunk.js.map": "/usecontext-demonstration/static/js/2.67088ef7.chunk.js.map",
+    "index.html": "/usecontext-demonstration/index.html",
+    "precache-manifest.afed5c099f18c84cd7ede33cf9c32c09.js": "/usecontext-demonstration/precache-manifest.afed5c099f18c84cd7ede33cf9c32c09.js",
+    "service-worker.js": "/usecontext-demonstration/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/usecontext-demonstration/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.67088ef7.chunk.js.LICENSE.txt": "/usecontext-demonstration/static/js/2.67088ef7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f66f7d3.js",
+    "static/js/2.67088ef7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.46ce4c45.chunk.js"
+  ]
+}
